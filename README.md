@@ -2,7 +2,7 @@
 
 O teste pode ser realizado na linguagem de programação de sua preferência.
 
-### O script deve consumir uma API REST do IBGE e com sua resposta realizar uma conversão para um arquivo CSV com a quantidade de países por região. 
+### O script deve consumir uma API REST do IBGE e com sua resposta realizar uma conversão para um arquivo CSV com a quantidade de estados por região. 
 
 **Endpoint:** https://servicodados.ibge.gov.br/api/v1/localidades/estados/
 
