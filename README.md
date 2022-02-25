@@ -42,4 +42,4 @@ Fique a vontade para clonar este repositório.
 
 - Crie um repositório para o desenvolvimento do teste.
 - Crie um diretório **csv** para armazenar o csv gerado.
--  Envie o link do seu repositório para o e-mail: ***cintia.andrade@edi-labs.com***.
+- Envie o link do seu repositório para o e-mail: ***leandro@edi-labs.com*** com cópia para ***wanderson.martins@edi-labs.com***
